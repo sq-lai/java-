@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Test2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        //随便试试
         // 输入n和x
         int n = sc.nextInt();
         int x = sc.nextInt();
