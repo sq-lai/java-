@@ -9,6 +9,7 @@ public class Test1 {
         int n = sc.nextInt();  // 面包机的个数
         int[] a = new int[n];  // 制作面包a的时间
         int[] b = new int[n];  // 制作面包b的时间
+        //随意添加的一行用于java的idea上传测试
 
         for (int i = 0; i < n; i++) {
             a[i] = sc.nextInt();
