@@ -1,0 +1,12 @@
+2024-08-15 16:42:21.611 [main] INFO  LogBackTest - chu法方法开始执行~~~
+2024-08-15 16:42:21.615 [main] DEBUG LogBackTest - 参数a:10
+2024-08-15 16:42:21.615 [main] DEBUG LogBackTest - 参数b:0
+2024-08-15 16:42:21.615 [main] ERROR LogBackTest - chu法方法执行失败了，出现了bug~~~
+2024-08-15 16:45:07.233 [main] INFO  LogBackTest - chu法方法开始执行~~~
+2024-08-15 16:45:07.237 [main] DEBUG LogBackTest - 参数a:10
+2024-08-15 16:45:07.237 [main] DEBUG LogBackTest - 参数b:0
+2024-08-15 16:45:07.237 [main] ERROR LogBackTest - chu法方法执行失败了，出现了bug~~~
+2024-08-15 16:45:30.061 [main] INFO  LogBackTest - chu法方法开始执行~~~
+2024-08-15 16:45:30.065 [main] DEBUG LogBackTest - 参数a:10
+2024-08-15 16:45:30.066 [main] DEBUG LogBackTest - 参数b:0
+2024-08-15 16:45:30.066 [main] ERROR LogBackTest - chu法方法执行失败了，出现了bug~~~
